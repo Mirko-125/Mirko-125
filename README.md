@@ -6,6 +6,5 @@ Except uni projects I usually make web apps based of my other interests, mostly 
 - Godot
 - Strudel
 - Cntributing to open source 
-- Python back-end frameworks
 
 Small commits today, significant impacts tomorrow.
